@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @punitpunde
 - 👀 I’m interested in Full Stack Development and Machine Learning 
 - 🌱 I’m currently learning Microservices and Machine Learning 
-- 💞️ I’m looking to collaborate on development
+- 💞️ I’m looking to collaborate in development
 - 📫 to reach me mail : punitpunde@gmail.com
 - 😄 Pronouns: whatever 
 - ⚡ Fun fact: ?
