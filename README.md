@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate in development  
 - 📫 To reach me, mail: [punitpunde@gmail.com](mailto:punitpunde@gmail.com)  
 - 😄 Pronouns: whatever  
-- ⚡ Fun fact: I debug my own life like I debug my code.  
+- ⚡ Fun fact: Always debugging....finding way to get it -> Punit P
 
 ---
 
