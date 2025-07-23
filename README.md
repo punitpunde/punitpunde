@@ -1,11 +1,11 @@
 # 👋 Hi, I’m @punitpunde
 
-- 👀 I’m interested in Full Stack Development and Machine Learning  
-- 🌱 I’m currently learning DevOps and Machine Learning  
-- 💞️ I’m looking to collaborate in development  
-- 📫 To reach me, mail: [punitpunde@gmail.com](mailto:punitpunde@gmail.com)  
-- 😄 Pronouns: whatever  
-- ⚡ Fun fact: Always debugging....finding way to get it -> Punit P..
+⠤ ⠮ 👀 ⠊⠇⠍⠀⠊⠝⠞⠑⠗⠑⠎⠞⠑⠙⠀⠊⠝⠀⠋⠥⠇⠇⠀⠎⠞⠁⠉⠅⠀⠙⠑⠧⠑⠇⠕⠏⠍⠑⠝⠞⠀⠁⠝⠙⠀⠍⠁⠉⠓⠊⠝⠑⠀⠇⠑⠁⠗⠝⠊⠝⠛  
+⠤ ⠮ 🌱 ⠊⠇⠍⠀⠉⠥⠗⠗⠑⠝⠞⠇⠽⠀⠇⠑⠁⠗⠝⠊⠝⠛⠀⠙⠑⠧⠕⠏⠎⠀⠁⠝⠙⠀⠍⠁⠉⠓⠊⠝⠑⠀⠇⠑⠁⠗⠝⠊⠝⠛  
+⠤ ⠮ 💞️ ⠊⠇⠍⠀⠇⠕⠕⠅⠊⠝⠛⠀⠞⠕⠀⠉⠕⠇⠇⠁⠃⠕⠗⠁⠞⠑⠀⠊⠝⠀⠙⠑⠧⠑⠇⠕⠏⠍⠑⠝⠞  
+⠤ ⠮ 📫 ⠞⠕⠀⠗⠑⠁⠉⠓⠀⠍⠑⠂⠀⠍⠁⠊⠇⠒⠀⠦⠏⠥⠝⠊⠞⠏⠥⠝⠙⠑⠼⠛⠍⠁⠊⠇⠲⠉⠕⠍⠴  
+⠤ ⠮ 😄 ⠏⠗⠕⠝⠕⠥⠝⠎⠒⠀⠺⠓⠁⠞⠑⠧⠑⠗  
+⠤ ⠮ ⚡ ⠋⠥⠝⠀⠋⠁⠉⠞⠒⠀⠁⠇⠺⠁⠽⠎⠀⠙⠑⠃⠥⠛⠛⠊⠝⠛⠲⠲⠲⠋⠊⠝⠙⠊⠝⠛⠀⠺⠁⠽⠀⠞⠕⠀⠛⠑⠞⠀⠏⠗⠑⠑⠞
 
 ---
 
